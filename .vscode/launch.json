@@ -1,0 +1,23 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"cwd": "${workspaceFolder}",
+			"executable": "${workspaceRoot}/build/kl05z-sample-project.elf",
+			"name": "Debug with JLink",
+			"request": "launch",
+			"type": "cortex-debug",
+			"serverpath": "/usr/bin/JLinkGDBServerCLExe",
+			"armToolchainPath": "/usr/bin",
+			"device": "MKL05Z32xxx4",
+			"interface": "swd",
+			"svdFile": "${workspaceRoot}/device/MKL05Z4.svd",
+			"runToEntryPoint": "main",
+			"showDevDebugOutput": "none",
+			"servertype": "jlink"
+		}
+	]
+}

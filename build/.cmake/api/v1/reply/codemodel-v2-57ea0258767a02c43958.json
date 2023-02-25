@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kl05z-sample-project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "documentation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-documentation-Debug-388a9dbacf7043739dc8.json",
+					"name" : "documentation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kl05z-sample-project.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kl05z-sample-project.elf-Debug-626c14e72980fe55a28b.json",
+					"name" : "kl05z-sample-project.elf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/joao/Development/Faculdade/microcontroladores/base-project/build",
+		"source" : "/home/joao/Development/Faculdade/microcontroladores/base-project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

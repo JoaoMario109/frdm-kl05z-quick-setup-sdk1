@@ -1,0 +1,4 @@
+/home/joao/Development/Faculdade/microcontroladores/base-project/build/CMakeFiles/documentation.dir
+/home/joao/Development/Faculdade/microcontroladores/base-project/build/CMakeFiles/kl05z-sample-project.elf.dir
+/home/joao/Development/Faculdade/microcontroladores/base-project/build/CMakeFiles/edit_cache.dir
+/home/joao/Development/Faculdade/microcontroladores/base-project/build/CMakeFiles/rebuild_cache.dir

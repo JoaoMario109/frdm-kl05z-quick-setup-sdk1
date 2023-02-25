@@ -1,0 +1,4 @@
+{
+	"cmake.configureOnOpen": false,
+	"cortex-debug.armToolchainPath": "/usr/bin"
+}
