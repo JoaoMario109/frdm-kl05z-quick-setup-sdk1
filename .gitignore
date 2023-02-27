@@ -502,3 +502,4 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 build
+docs/html
